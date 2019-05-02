@@ -8,7 +8,7 @@ Pip3
 
 ## How to use
 
-Clone this repository to your local system and install the dependencies using pip: `pip install -r requirements.txt`.  Next, enter your CloudPassage Halo API Key and API Secret as environment variables or by any other method as defined by the [Halo APIKeyManager]([https://cloudpassage-halo-python-sdk.readthedocs.io/en/latest/api_key_manager.html](https://cloudpassage-halo-python-sdk.readthedocs.io/en/latest/api_key_manager.html)).
+Clone this repository to your local system and install the dependencies using pip: `pip install -r requirements.txt`.  Next, enter your CloudPassage Halo API Key and API Secret as environment variables or by any other method as defined by the [Halo APIKeyManager](https://cloudpassage-halo-python-sdk.readthedocs.io/en/latest/api_key_manager.html](https://cloudpassage-halo-python-sdk.readthedocs.io/en/latest/api_key_manager.html)).
 
 To generate the report, run `python generate_report.py` from the repository root. This create a markdown report file named `report.md` in the `output` directory of the repository. To view, copy and paste the file contents in any markdown viewer such as [StackEdit](https://stackedit.io/app#).
 
